@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DSC</string>
+    <string name="gratis_ongkir">Gratis Ongkir</string>
+    <string name="special_promo">Special Promo</string>
+    <string name="barang_favorit">Barang Favorit</string>
+    <string name="flash_deal">Flash Deal</string>
+    <string name="spesial_untukmu">Spesial Untukmu</string>
+    <string name="menu_favorit">Menu Favorit</string>
+    <string name="listrik_pascabayar">Listrik Pascabayar</string>
+    <string name="buka_cicilan">Buka Cicilan</string>
+    <string name="shake_a_thon">Shake-a-Thon</string>
+    <string name="bukamotor">BukaMotor</string>
+    <string name="tiker_kereta">Tiker Kereta</string>
+    <string name="bukamobil">BukaMobil</string>
+    <string name="listrik_prabayar">Listrik Prabayar</string>
+    <string name="pulsa_prabayar">Pulsa Prabayar</string>
+    <string name="buka_dana">Buka Dana</string>
+    <string name="lihat_semua">Lihat Semua</string>
+</resources>
