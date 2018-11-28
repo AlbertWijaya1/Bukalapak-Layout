@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Home"
+        android:enabled="true"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/BukaMall"
+        android:enabled="true"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="@string/bukamall"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/Keranjang"
+        android:enabled="true"
+        android:icon="@drawable/ic_shopping_basket_black_24dp"
+        android:title="@string/keranjang"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/Transaksi"
+        android:enabled="true"
+        android:icon="@drawable/ic_description_black_24dp"
+        android:title="@string/transaksi"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/Akun"
+        android:enabled="true"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/akun"
+        app:showAsAction="ifRoom" />
+</menu>

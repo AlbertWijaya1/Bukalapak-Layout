@@ -16,4 +16,9 @@
     <string name="pulsa_prabayar">Pulsa Prabayar</string>
     <string name="buka_dana">Buka Dana</string>
     <string name="lihat_semua">Lihat Semua</string>
+    <string name="home">Home</string>
+    <string name="bukamall">BukaMall</string>
+    <string name="akun">Akun</string>
+    <string name="transaksi">Transaksi</string>
+    <string name="keranjang">Keranjang</string>
 </resources>
